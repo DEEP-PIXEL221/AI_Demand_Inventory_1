@@ -1,0 +1,4 @@
+data/retail_clean_dataset/
+data/retail_contaminated_dataset/
+api/
+test_api.py

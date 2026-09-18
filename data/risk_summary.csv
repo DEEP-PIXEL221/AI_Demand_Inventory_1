@@ -1,0 +1,6 @@
+final_risk_category,final_recommended_action,record_count,percentage
+Critical Stockout,Immediate Reorder,864,55.53
+Healthy / Monitor,No Immediate Action,357,22.94
+Overstock Candidate,Review / Reduce Inventory,175,11.25
+Reorder Required,Plan Reorder,107,6.88
+High Risk,Expedite Replenishment,53,3.41
